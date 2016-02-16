@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[PROMUSICMASTERING]]></title>
         <description><![CDATA[PROMUSICMASTERING]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/promusicmastering/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 16 Feb 2016 18:44:09 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 16 Feb 2016 18:48:38 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/promusicmastering/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Launching soon...</p>]]></description>
-            <link>undefinedf374274c-b6f3-422b-ba3f-01fae3374e64/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa752574-856d-4b78-b042-5b69885f29aa.jpg">]]></description>
+            <link>https://thegrid.ai/promusicmastering/f374274c-b6f3-422b-ba3f-01fae3374e64/index.html</link>
             <guid isPermaLink="false">f374274c-b6f3-422b-ba3f-01fae3374e64</guid>
-            <pubDate>Tue, 16 Feb 2016 18:44:02 GMT</pubDate>
+            <pubDate>Tue, 16 Feb 2016 18:48:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
