@@ -2,6 +2,7 @@ name: PROMUSICMASTERING
 favicon: null
 layout_spectrum: 0.49789
 typography_spectrum: 0.90776
+title: 'Test Site '
 cta:
   domain: null
   bucket: null
