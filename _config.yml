@@ -1,17 +1,23 @@
-title: 'Test Site '
-purpose: []
+typography_spectrum: 0.9091479
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
+layout_spectrum: 0.2844611
+title: 'Test Site '
+purpose: []
 color:
   saturation: 1
   brandStrength: 1
@@ -27,15 +33,9 @@ cta:
   bucket: null
   version: null
   domain: null
+favicon: null
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: PROMUSICMASTERING
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.9091479
-layout_spectrum: 0.2844611
