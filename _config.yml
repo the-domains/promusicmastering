@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: PROMUSICMASTERING
 favicon: null
+name: PROMUSICMASTERING
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.4423559
-layout_spectrum: 0.6528822
+layout_spectrum: 0.05764411
