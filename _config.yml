@@ -6,36 +6,36 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0.7224311
   brandStrength: 0.4755639
-  lightness: 0.7261904
+  rhythmicContrast: 0.5194235
   brandColors:
     - '#0F0F0F'
     - '#3A3A3A'
     - '#A9A9A9'
     - '#717171'
     - '#D8D8D8'
-  rhythmicContrast: 0.5194235
-cta:
-  bucket: null
-  version: null
-  domain: null
+  lightness: 0.7261904
 analytics:
   twitter: null
   google: null
   facebook: null
 favicon: null
+cta:
+  bucket: null
+  version: null
+  domain: null
 name: PROMUSICMASTERING
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.4423559
-layout_spectrum: 0.05764411
+layout_spectrum: 1
